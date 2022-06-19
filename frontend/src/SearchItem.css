@@ -1,0 +1,107 @@
+.search_card {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding-top: 30px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 4px;
+    border-color: rgba(0, 0, 0, 0.553);
+}
+
+.search_card_cover {
+    display: block;
+    width: 80%;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.search_product {
+    display: flex;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 10px;
+}
+
+.search_product_name {
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+.search_product_name:hover {
+    color: brown;
+}
+
+.search_rating {
+    width: 40px;
+    height: 25px;
+    margin-left: auto;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    background-color: blue;
+    border-radius: 4px;
+}
+
+.search_detail {
+    text-align: start;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: auto;
+}
+
+.search_price_field {
+    padding-top: 5px;
+    padding-bottom: 1px;
+}
+
+.search_price {
+    font-size: 24px;
+    font-weight: bold;
+    color: brown;
+}
+
+.search_original_price {
+    font-size: 12px;
+    font-weight: bold;
+    color: gray;
+}
+
+.search_seller {
+    font-size: 12px;
+}
+
+.search_seller_name {
+    font-size: 12px;
+    font-weight: bold;
+    color: green;
+    cursor: pointer;
+}
+
+.cart_btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: red;
+    margin-top: 15px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    font-size: 14px;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}
+
+.cart_btn:hover {
+    background-color: rgb(222, 0, 0);
+}
+
+.cart_btn img {
+    margin-right: 5px;
+    width: 15px;
+    height: 15px;
+}

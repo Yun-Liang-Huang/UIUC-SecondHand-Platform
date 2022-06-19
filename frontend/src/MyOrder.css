@@ -1,0 +1,29 @@
+.order {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.order_title {
+    font-size: 28px;
+    font-weight: bold;
+    color: black;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-bottom: 1px solid lightgray;
+    margin-bottom: 30px;
+}
+
+.order_message {
+    font-size: 24px;
+    font-weight: bold;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.order_field {
+    display: grid;
+    margin-bottom: 30px;
+    grid-row-gap: 20px;
+}

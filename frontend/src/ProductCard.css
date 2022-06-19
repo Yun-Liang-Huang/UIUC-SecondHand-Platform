@@ -1,0 +1,52 @@
+.card_holder {
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    padding-top: 30px;
+    padding-bottom: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 4px;
+    align-items: center;
+    cursor: pointer;
+}
+
+.card_holder img {
+    width: 100px;
+    height: 100px;
+}
+
+.card_product_name {
+    padding-top: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.card_product_price_field {
+    margin-top: auto;
+    padding-top: 5px;
+}
+
+.card_product_price {
+    font-size: 20px;
+    font-weight: bold;
+    color: red;
+}
+
+.card_product_original_price {
+    font-size: 12px;
+    font-weight: bold;
+    color: gray;
+}
+
+.card_product_sellers {
+    padding-top: 5px;
+    font-size: 12px;
+}
+
+.card_product_sellers_text {
+    font-size: 14px;
+    font-weight: bold;
+    color: darkcyan;
+}

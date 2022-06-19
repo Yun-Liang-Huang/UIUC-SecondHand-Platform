@@ -1,0 +1,48 @@
+.best_seller {
+    background-color: gainsboro;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-top: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+
+.best_seller h2 {
+    color: black;
+    padding-left: 5%;
+}
+
+.best_seller_blocks {
+    display: grid;
+    margin-top: 30px;
+    grid-row-gap: 15px;
+    grid-column-gap: 15px;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.iphone_field {
+    background-color: darkslategrey;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+}
+
+.iphone_field h2 {
+    color: white;
+    padding-left: 5%;
+}
+
+.iphone_blocks {
+    display: grid;
+    margin-top: 30px;
+    grid-row-gap: 15px;
+    grid-column-gap: 15px;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}

@@ -1,0 +1,123 @@
+.comment_product_field {
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.comment_product_field img {
+    width: 250px;
+}
+
+.comment_product_detail {
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.comment_product_rating {
+    width: 50px;
+    height: 30px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    background-color: blue;
+    border-radius: 4px;
+}
+
+.comment_product_name {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.comment_product_memo {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.comment_price_field {
+    padding-top: 1px;
+    padding-bottom: 1px;
+    margin-top: auto;
+    margin-bottom: 1px;
+}
+
+.comment_price {
+    font-size: 24px;
+    font-weight: bold;
+    color: brown;
+}
+
+.comment_original_price {
+    font-size: 12px;
+    font-weight: bold;
+    color: gray;
+}
+
+.comment_seller {
+    font-size: 12px;
+}
+
+.comment_seller_name {
+    font-size: 12px;
+    font-weight: bold;
+    color: green;
+    cursor: pointer;
+}
+
+.comment_year {
+    font-size: 12px;
+}
+
+.comment_year_name {
+    font-size: 12px;
+    font-weight: bold;
+    color: green;
+}
+
+.comment_send {
+    width: 100px;
+    padding: 5px;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 12px;
+    font-weight: bold;
+    color: white;
+    background-color: red;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.comments {
+    padding-left: 15%;
+    padding-right: 15%;
+}
+
+.comment_title {
+    font-size: 28px;
+    font-weight: bold;
+    color: black;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-top: 1px solid lightgray;
+}
+
+.comment_message {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.comment_field {
+    display: grid;
+    margin-bottom: 30px;
+    grid-row-gap: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}

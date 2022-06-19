@@ -1,0 +1,167 @@
+{
+    "Top_Sellers": [
+        {
+            "Product_Name": "laptop", 
+            "Num_Sellers": 36, 
+            "Avg_Price": 663.58
+        }, 
+        {
+            "Product_Name": "paints", 
+            "Num_Sellers": 33, 
+            "Avg_Price": 23.82
+        },
+        {
+            "Product_Name": "luggage", 
+            "Num_Sellers": 34, 
+            "Avg_Price": 57.79
+        },
+        {
+            "Product_Name": "shoes", 
+            "Num_Sellers": 33, 
+            "Avg_Price": 29.18
+        },
+        {
+            "Product_Name": "coat", 
+            "Num_Sellers": 29, 
+            "Avg_Price": 46.07
+        }
+    ],
+    "iphones": [
+        {
+            "Product_Name": "iPhone 12",
+            "Avg_Price": 437.36
+        },
+        {
+            "Product_Name": "iPhone 13",
+            "Avg_Price": 493.21
+        },
+        {
+            "Product_Name": "iPhone 11",
+            "Avg_Price": 354.43
+        },
+        {
+            "Product_Name": "iPhone 12",
+            "Avg_Price": 399.64
+        },
+        {
+            "Product_Name": "iPhone 12",
+            "Avg_Price": 565.69
+        }
+    ],
+    "Products": [
+        {
+            "Product_ID": 607,
+            "Product_Name": "bag",
+            "Seller_ID": 899,
+            "Name": "Lael Manning",
+            "Price": 38,
+            "Original_Price": 55
+        },
+        {
+            "Product_ID": 608,
+            "Product_Name": "bag",
+            "Seller_ID": 895,
+            "Name": "Benedict Booth",
+            "Price": 89,
+            "Original_Price": 111
+        },
+        {
+            "Product_ID": 609,
+            "Product_Name": "bag",
+            "Seller_ID": 897,
+            "Name": "Lesley Harvey",
+            "Price": 22,
+            "Original_Price": 211
+        },
+        {
+            "Product_ID": 610,
+            "Product_Name": "bag",
+            "Seller_ID": 890,
+            "Name": "Lamar Daniel",
+            "Price": 32,
+            "Original_Price": 103
+        },
+        {
+            "Product_ID": 611,
+            "Product_Name": "bag",
+            "Seller_ID": 418,
+            "Name": "Charlotte Vance",
+            "Price": 38,
+            "Original_Price": 184
+        },
+        {
+            "Product_ID": 612,
+            "Product_Name": "bag",
+            "Seller_ID": 764,
+            "Name": "Regina Rivas",
+            "Price": 67,
+            "Original_Price": 135
+        },
+        {
+            "Product_ID": 613,
+            "Product_Name": "bag",
+            "Seller_ID": 173,
+            "Name": "Sybil Page",
+            "Price": 73,
+            "Original_Price": 237
+        },
+        {
+            "Product_ID": 614,
+            "Product_Name": "bag",
+            "Seller_ID": 675,
+            "Name": "Kimberly Gibbs",
+            "Price": 91,
+            "Original_Price": 282
+        },
+        {
+            "Product_ID": 615,
+            "Product_Name": "bag",
+            "Seller_ID": 466,
+            "Name": "Kelsey Mccall",
+            "Price": 91,
+            "Original_Price": 116
+        },
+        {
+            "Product_ID": 616,
+            "Product_Name": "bag",
+            "Seller_ID": 848,
+            "Name": "Ryan Simon",
+            "Price": 68,
+            "Original_Price": 156
+        }
+        ,{
+            "Product_ID": 617,
+            "Product_Name": "bag",
+            "Seller_ID": 152,
+            "Name": "Quinlan Rhodes",
+            "Price": 51,
+            "Original_Price": 251
+        }
+        ,{
+            "Product_ID": 618,
+            "Product_Name": "bag",
+            "Seller_ID": 759,
+            "Name": "Quail Humphrey",
+            "Price": 68,
+            "Original_Price": 241
+        }
+    ],
+    "Cart": [
+        {
+            "Product_ID": 609,
+            "Product_Name": "bag",
+            "Seller_ID": 897,
+            "Name": "Lesley Harvey",
+            "Price": 22,
+            "Original_Price": 211
+        },
+        {
+            "Product_ID": 617,
+            "Product_Name": "bag",
+            "Seller_ID": 152,
+            "Name": "Quinlan Rhodes",
+            "Price": 51,
+            "Original_Price": 251
+        }
+    ]
+}

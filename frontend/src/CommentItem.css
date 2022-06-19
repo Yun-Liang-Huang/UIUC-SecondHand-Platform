@@ -1,0 +1,39 @@
+.comment_user {
+    display: flex;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.comment_user img {
+    width: 15px;
+    height: 15px;
+    padding: 2px;
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 1px;
+    margin-left: 15px;
+}
+
+.comment_user a {
+    margin-left: 5px;
+    font-size: 13px;
+    font-weight: bold;
+    color: green;
+    cursor: pointer;
+}
+
+.comment_rating {
+    width: 30px;
+    height: 30px;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    background-color: blue;
+    border-radius: 4px;
+}
+
+.comment_text {
+    padding: 20px;
+    font-size: 16px;
+}
